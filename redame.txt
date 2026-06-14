@@ -1,0 +1,33 @@
+Project Name: Sales Report
+ --------------------------------- 
+Tools : 
+	- Power Query
+	- Power Bi 
+--------------------------------- 
+Measures 
+	1- TOTAL SALES 
+	2- AVG SALES 
+	3- TOTAL QT 
+	4- TOTAL QT 
+	5- COUNT CUSTOMERS
+ ---------------------------------- 
+DASHBOARD 
+		1- CARDS:
+ 		2-TOTAL SALES  
+		3-TOTAL QT
+		4-TOTAL ORDERS 
+		5-COUNT CUSTOMERS 
+	2-COLUMNS /BAR 
+		- TOTAL SALES PER CITY 
+		- TOTAL SALES PER CATEGORY 
+		- TOTAL ORDERS PER CITY 
+	3- LINE 
+		- TOTAL SALES PER MONTH 
+		- TOTAL ORDERS PER MONTH 
+	4- MAP 
+		- TOTAL ORDER PER CITY
+	5- SLICER
+		 - MONTH 
+		- CITY
+ ----------------------------------------- 
+INSIGHT...?
